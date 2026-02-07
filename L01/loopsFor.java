@@ -1,5 +1,5 @@
 //example of for loop
-public class loops {
+public class loopsFor {
 //using break to quit after 5 iterations
     public static void main(String[] args) {
         int ctr=1;
